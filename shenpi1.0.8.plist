@@ -18,13 +18,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ufida.uap.IApproval</string>
+				<string>com.merp.special.cons.xnzq.ios</string>
 				<key>bundle-version</key>
 				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>ncapprove</string>
 				<key>title</key>
-				<string>移动审批</string>
+				<string>ncapprove</string>
 			</dict>
 		</dict>
 	</array>
