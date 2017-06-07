@@ -13,22 +13,7 @@
 					<key>url</key>
 					<string>http://jdz.swsc.com.cn:8080/sp/NCMobileApprove__xnzqygz.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://o8sz2sosj.bkt.clouddn.com/app57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://o8sz2sosj.bkt.clouddn.com/app57.png</string>
-				</dict>
+				
 			</array>
 			<key>metadata</key>
 			<dict>
